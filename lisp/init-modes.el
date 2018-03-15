@@ -5,6 +5,8 @@
        '(("\\.html\\'" . web-mode))
        '(("\\.css\\'" . web-mode))
        '(("\\.go\\'" . go-mode))
+       '(("\\.md\\'" . markdown-mode))
+       '(("\\.markdown\\'" . markdown-mode))
        auto-mode-alist))
 
 ;; Find Executable Path on OS X
