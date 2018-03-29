@@ -7,6 +7,8 @@
        '(("\\.go\\'" . go-mode))
        '(("\\.md\\'" . markdown-mode))
        '(("\\.markdown\\'" . markdown-mode))
+       '(("\\.yml\\'" . yaml-mode))
+       '(("\\.yaml\\'" . yaml-mode))
        auto-mode-alist))
 
 ;; Find Executable Path on OS X
