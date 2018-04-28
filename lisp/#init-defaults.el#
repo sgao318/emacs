@@ -1,8 +1,7 @@
-;;默认路径
-(setq default-directory "~/DAICY/")
+;;默认路/DAICY/")
 
 ;; 关闭工具栏
-(tool-bar-mode -1)
+(tool-bar-mode -1oooo
 
 ;; 显示行号
 (global-linum-mode 1)
