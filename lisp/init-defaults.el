@@ -1,5 +1,5 @@
 ;;默认路径
-(setq default-directory "~/DAICY/")
+(setq default-directory "/data/")
 
 ;; 关闭工具栏
 (tool-bar-mode -1)
